@@ -110,4 +110,4 @@ It's the main component of the application. It contains the ToolBar and the netw
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nexmo-se/video-api-multiparty-toolkit-sample-app.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mmiyazawa7/video-express-react-app.git)
