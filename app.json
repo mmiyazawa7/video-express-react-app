@@ -19,7 +19,6 @@
     },
     "REACT_APP_ASSETS_PATH": {
       "description": "React App Assets Path"
-          
     }
   }
 }
